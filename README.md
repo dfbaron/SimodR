@@ -73,7 +73,7 @@ The process can be setup in the file config.ini to execute different user prefer
 ```
 ## 3. Project Folders and files
 
-## 3.1 Project Folders
+### 3.1 Project Folders
 Besides the modules showed in the previous Architecture image, the project folder have some important folders to take into account.
  - **Config.ini** file. Configuration file for the process.
  - **Main.py** file. Main execution file 
