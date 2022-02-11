@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
  - R 4.x
  - RTools 4.x
  - Anaconda Distribution
- - Git
+ - [Git https://git-scm.com/downloads] 
 
 ### 1.2 Getting Started
 
