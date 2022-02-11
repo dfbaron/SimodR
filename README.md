@@ -7,11 +7,11 @@ Simod + Resources combine the best futures of Simod, though also take into accou
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### 1.1 System Requirements
- - Python 3.x
+ - [Python 3.x](https://www.python.org/downloads/)
  - Java SDK 1.8
- - R 4.x
- - RTools 4.x
- - Anaconda Distribution
+ - [R 4.x](https://cran.r-project.org/bin/windows/base/)
+ - [RTools 4.x](https://cran.r-project.org/bin/windows/Rtools/rtools40.html)
+ - [Anaconda Distribution](https://www.anaconda.com/products/individual)
  - [Git](https://git-scm.com/downloads)
 
 ### 1.2 Getting Started
