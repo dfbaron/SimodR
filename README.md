@@ -23,14 +23,12 @@ $ git clone https://github.com/dfbaron/SimodR.git
 
 ### Execution steps without Anaconda
 ```
-cd Simod_recursos_scylla
 pip install -r requirements.txt
 ```
 
 ### Execution steps with Anaconda 
 #### Using terminal
 ```
-cd Simod_recursos_scylla
 conda env create -f SimodResourcesEnv.yml (For Windows OS)
 conda env create -f SimodResourcesEnvMacOS.yml (For Mac OS Related)
 conda activate SimodResourcesEnv[MacOs]
