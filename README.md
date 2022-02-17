@@ -65,6 +65,8 @@ The process can be setup in the file config.ini to execute different user prefer
 [EXECUTION][happy_path]: True or False variable that represents the quality assignation policy. In this case the tool will determine the happy path of the process.
 [EXECUTION][simulator]: Choose the simulator of preference. For this project we are only using Scylla, for future implementations will be possible to include more simulators though.
 [EXECUTION][optimization]: True or False variable that define whenever you want to optimize the search. If this is selected the [OPTIMIZATION] section must be fill out.
+[EXECUTION][role_optimization]: Flag to determine whether role optimization will be performed.
+[EXECUTION][resource_optimization]: Flag to determine whether resource optimization (multi-objective optimization) will be performed.
 [OPTIMIZATION][objective]: Define the variable to optimize. Choose among: flowTime_avg, cost_total, waiting_avg, time_workload_avg.
 [OPTIMIZATION][criteria]: Choose the optimization criteria. 'min' for minimization or 'max' for maximization.
 
